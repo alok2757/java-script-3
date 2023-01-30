@@ -2,4 +2,5 @@
  ************************************************************* Understanding DOM ********************************************************************
 
 ## Q-1
-![image](https://user-images.githubusercontent.com/96730792/211337930-4bf1cd6d-5ae1-4d3d-8c78-a7da3bc41797.png)
+![image](https://user-images.githubusercontent.com/122484692/215387408-04f63e6c-2b56-48bb-9646-3387f8fb50ae.png)
+

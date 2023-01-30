@@ -1,5 +1,5 @@
 # JavaScript- coding ninja
- ***************************************** Starting with Javascript **********************************************************
+ ************************************************ Starting with Javascript *************************************************************************
 
 ## Q-1
 ![image](https://user-images.githubusercontent.com/96730792/211337930-4bf1cd6d-5ae1-4d3d-8c78-a7da3bc41797.png)
@@ -600,6 +600,78 @@ f(5,x)
 <details><summary><b>Answer</b></summary>
 undefined
 </details>
+
+******************************************************************************************************************************************************************************************************************* Objects and Timing Events  *********************************************
+
+## Q-1
+![image](https://user-images.githubusercontent.com/122484692/215392464-8ba3bf54-a781-4277-855c-7d6604f0a365.png)
+
+## Q-2
+![image](https://user-images.githubusercontent.com/122484692/215392546-13336725-291c-4952-9c6e-4d41a37b08a1.png)
+
+## Q-3
+![image](https://user-images.githubusercontent.com/122484692/215392587-b5db3184-5b2c-45e8-922f-f7e4adc30c5a.png)
+
+## Q-4
+![image](https://user-images.githubusercontent.com/122484692/215392653-3b4a4c8b-4f2e-4204-993d-53f21d7465a1.png)
+
+## Q-5
+![image](https://user-images.githubusercontent.com/122484692/215392721-ab0b8a97-3c7d-4ed1-9000-770de02a303f.png)
+
+## Q-6
+![image](https://user-images.githubusercontent.com/122484692/215392771-3a3b045b-a1ef-46fb-ad3b-8af3a4813873.png)
+
+## Q-7
+![image](https://user-images.githubusercontent.com/122484692/215392825-4e9dbe7d-b74c-4f1a-a1e7-4da4778ce01c.png)
+
+## Q-8
+![image](https://user-images.githubusercontent.com/122484692/215392882-7539992c-9286-41f7-bfa9-37c5d246d261.png)
+
+## Q-9
+![image](https://user-images.githubusercontent.com/122484692/215392919-9cfa8007-2768-4967-a223-34b8ecc9284f.png)
+
+## Q-10
+![image](https://user-images.githubusercontent.com/122484692/215392958-18406510-645c-4982-9883-9827718b9222.png)
+
+## Q-11
+![image](https://user-images.githubusercontent.com/122484692/215393002-60ea404f-bb7f-4ccd-af8a-d754b5df95bd.png)
+
+## Q-12
+![image](https://user-images.githubusercontent.com/122484692/215393042-48116f4c-4908-4a9b-955c-cc764004109a.png)
+
+## Q-13
+![image](https://user-images.githubusercontent.com/122484692/215393115-3579dd4f-c6fc-4da0-9f34-683581996788.png)
+
+## Q-14
+![image](https://user-images.githubusercontent.com/122484692/215393189-f848b43c-62d1-4edc-bbf3-2ecdfb977bd2.png)
+
+## Q-15
+![image](https://user-images.githubusercontent.com/122484692/215393258-6192474f-c83f-436a-89f6-06406668a055.png)
+
+## Q-16
+![image](https://user-images.githubusercontent.com/122484692/215393300-af1f4405-8d2b-4b7f-a8d8-39bc6a0b43ba.png)
+
+## Q-17
+![image](https://user-images.githubusercontent.com/122484692/215393350-e64d142b-24a7-48ee-8882-b0c416e70db4.png)
+
+## Q-18
+![image](https://user-images.githubusercontent.com/122484692/215393411-9a0fe684-4fe5-4bf3-9300-9ae2edd265d4.png)
+
+## Q-19
+![image](https://user-images.githubusercontent.com/122484692/215393472-5928452e-a61e-4670-baf7-0fd530ac04f9.png)
+
+## Q-20
+![image](https://user-images.githubusercontent.com/122484692/215393517-bb387bbd-d875-45e6-a8fe-4dc0074b6a88.png)
+
+## Q-21
+![image](https://user-images.githubusercontent.com/122484692/215393579-6191839b-7358-4c8e-9293-fcd1522d1512.png)
+
+## Q-22
+![image](https://user-images.githubusercontent.com/122484692/215393629-a175140c-09e8-4181-80a2-9e54126e2d1e.png)
+
+## Q-23
+![image](https://user-images.githubusercontent.com/122484692/215393692-5fb6a8a0-b74f-4873-8d61-7869c85b635c.png)
+
 
 
 

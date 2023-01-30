@@ -825,8 +825,8 @@ function outer(){
 outer();
 console.log(a++,b++);
 <details><summary><b>Answer</b></summary>
-      10 31
-      30 31
+      10 31;
+      30 31;
       10 NaN
 </details>
 

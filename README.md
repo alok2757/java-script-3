@@ -69,19 +69,32 @@ console.log(test()==window);
 ![image](https://user-images.githubusercontent.com/122484692/215389719-c1dc5746-a17c-4234-85e6-b01bea663d29.png)
 
 ## Q-18
-  <div id="parent">
-    <button id="child">Child</button>
-  </div>
-  <script>
-    var parent = document.querySelector('#parent');
-      parent.addEventListener('click', function(){
-        console.log("Parent clicked");
-      });
-    var child = document.querySelector('#child');
-      child.addEventListener('click', function(){
-        console.log("Child clicked");
-      });
-  </script>
-<details><summary><b>Answer</b></summary>
-child clicked parent clicked
-</details>
+![image](https://user-images.githubusercontent.com/122484692/215390187-5a9bef90-e9d4-4ace-9dd7-0132245e67bc.png)
+
+## Q-19
+![image](https://user-images.githubusercontent.com/122484692/215390353-80509204-d2a5-4ffe-bdc3-5fbe03da8669.png)
+
+## Q-20
+![image](https://user-images.githubusercontent.com/122484692/215390404-2466806a-dcb0-4bfd-b10b-bb1fdf2189bb.png)
+
+## Q-21
+![image](https://user-images.githubusercontent.com/122484692/215390455-28019175-2750-4797-ace9-ca55c24c2e79.png)
+
+## Q-22
+![image](https://user-images.githubusercontent.com/122484692/215390618-32c20d44-adb3-4a7c-b3c4-3d1ba991ea0c.png)
+
+## Q-23
+![image](https://user-images.githubusercontent.com/122484692/215390665-f261741e-7e1c-4ec6-a950-5d8e06a05b2f.png)
+
+## Q-24
+![image](https://user-images.githubusercontent.com/122484692/215390730-55aa80f3-8b08-4ba3-9e99-5d7006c63365.png)
+
+## Q-25
+![image](https://user-images.githubusercontent.com/122484692/215390799-8815218b-ef4d-4ec5-bbe6-5cb62bf4607b.png)
+
+## Q-26
+![image](https://user-images.githubusercontent.com/122484692/215390852-fd8bbb8f-e31a-4eba-9cca-8423304fd108.png)
+
+
+
+

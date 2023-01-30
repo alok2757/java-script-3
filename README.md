@@ -883,4 +883,41 @@ console.log(a++);
 ## Q-17
 ![image](https://user-images.githubusercontent.com/122484692/215405743-c24547c7-b1bc-42fa-a607-2c4ba94fd0a6.png)
 
+## Q-18
+![image](https://user-images.githubusercontent.com/122484692/215412286-22c59548-ee27-4708-9d99-3b1a0d5258c9.png)
+
+## Q-19
+![image](https://user-images.githubusercontent.com/122484692/215412363-86a759fc-1ed4-444d-9ec2-f944270e0a27.png)
+
+## Q-20
+![image](https://user-images.githubusercontent.com/122484692/215412435-854f4426-7e45-44dc-9f2a-c2d312ed106d.png)
+
+## Q-21
+![image](https://user-images.githubusercontent.com/122484692/215412508-3c23fe46-4e25-4573-8fa3-874a5de7e9ea.png)
+
+## Q-22
+![image](https://user-images.githubusercontent.com/122484692/215412586-c15c4d3e-9aae-4d24-86a8-99263e0841ae.png)
+
+## Q-23
+![image](https://user-images.githubusercontent.com/122484692/215412664-95980293-bd6d-4992-a864-caa5ee560a51.png)
+
+## Q-24
+![image](https://user-images.githubusercontent.com/122484692/215412782-5d6cbf9a-8a2a-4994-a5b8-4897259d2af8.png)
+
+## Q-25
+![image](https://user-images.githubusercontent.com/122484692/215412871-87bad3b1-0a02-4ec8-a84a-20bf07251ec6.png)
+
+## Q-26
+![image](https://user-images.githubusercontent.com/122484692/215412942-9e77725a-3473-418f-8c07-6b291daa6298.png)
+
+## Q-27
+![image](https://user-images.githubusercontent.com/122484692/215413000-b0e9716b-c6c0-4df5-ac79-537587b9f001.png)
+
+## Q-28
+![image](https://user-images.githubusercontent.com/122484692/215413096-efce5be6-6227-48c6-bcc4-2fd5ca42462f.png)
+
+## Q-29
+![image](https://user-images.githubusercontent.com/122484692/215413196-6d945e22-875f-4c3f-ae96-caf2165fb2d3.png)
+
+## Q-30
 

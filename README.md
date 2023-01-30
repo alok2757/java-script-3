@@ -795,6 +795,40 @@ console.log(test()==window);
 ## Q-26
 ![image](https://user-images.githubusercontent.com/122484692/215390852-fd8bbb8f-e31a-4eba-9cca-8423304fd108.png)
 
+***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************** Closures  ********************************************
+
+
+## Q-1
+![image](https://user-images.githubusercontent.com/122484692/215403285-b27d149c-07bc-4d40-94ea-c26d5b286534.png)
+
+## Q-2
+![image](https://user-images.githubusercontent.com/122484692/215403355-694b0be9-32d8-4154-b6cb-592744e8af21.png)
+
+## Q-3
+![image](https://user-images.githubusercontent.com/122484692/215403411-363f7efe-2459-4e8a-b795-814d6c09cdd2.png)
+
+## Q-4
+![image](https://user-images.githubusercontent.com/122484692/215403480-d728f5de-d6f2-46da-bb4f-81243cdd69d1.png)
+
+## Q-5
+var a =10;
+var b;
+function outer(){
+    var b = 30;
+    function inner(a){
+        var a = 30;
+        console.log(a++ ,b++)
+        }
+        console.log(a, ++b);
+        inner(a);
+}
+outer();
+console.log(a++,b++);
+<details><summary><b>Answer</b></summary>
+      10 31
+      30 31
+      10 NaN
+</details>
 
 
 

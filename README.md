@@ -1118,3 +1118,48 @@ console.log(a++);
 
 ## Q-22
 ![image](https://user-images.githubusercontent.com/122484692/215423344-00cfc87e-db95-4967-9aab-2887aabd9a5d.png)
+
+
+***************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************** JQuery ***************************
+
+## Q-1
+![image](https://user-images.githubusercontent.com/122484692/215424163-d533adc1-d833-4c6f-be38-a8e93ed5ae82.png)
+
+## Q-2
+![image](https://user-images.githubusercontent.com/122484692/215424280-3b901fdd-0950-4f78-9c21-c9d410f5c638.png)
+
+## Q-3
+![image](https://user-images.githubusercontent.com/122484692/215424352-f6276b85-c00d-4421-8874-178d95f4f688.png)
+
+## Q-4
+![image](https://user-images.githubusercontent.com/122484692/215424407-6e62ae48-eefb-46ce-9503-0e2f7c29a60e.png)
+
+## Q-5
+![image](https://user-images.githubusercontent.com/122484692/215424474-395fa465-1128-49fb-994c-c20e0c69cb98.png)
+
+## Q-6
+![image](https://user-images.githubusercontent.com/122484692/215424551-c3b15bf8-4236-46ed-b430-e51d8da9929f.png)
+
+## Q-7
+![image](https://user-images.githubusercontent.com/122484692/215424617-8e0a524f-4d16-4556-bd21-4ae67c84853b.png)
+
+## Q-8
+![image](https://user-images.githubusercontent.com/122484692/215424703-0a3e2fd8-3426-4fb4-bf89-8d45b585f477.png)
+
+## Q-9
+![image](https://user-images.githubusercontent.com/122484692/215424768-091dd84f-cf65-40b4-a9ce-32f66d906d84.png)
+
+## Q-10
+![image](https://user-images.githubusercontent.com/122484692/215424830-722b99e2-79aa-4a9e-bfed-758e93b7e09d.png)
+
+## Q-11
+![image](https://user-images.githubusercontent.com/122484692/215424896-734bdcc6-b456-497e-9dad-263857df46ac.png)
+
+## Q-12
+![image](https://user-images.githubusercontent.com/122484692/215424966-75a05bb9-a27d-4b2c-9801-fe15bf32fde7.png)
+
+## Q-13
+![image](https://user-images.githubusercontent.com/122484692/215425027-3db5d834-8f4b-4307-b382-60ec1d62990b.png)
+
+## Q-14
+![image](https://user-images.githubusercontent.com/122484692/215425083-24526f88-266a-47c0-bc9f-5b0b7196eb1a.png)

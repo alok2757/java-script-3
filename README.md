@@ -830,5 +830,57 @@ console.log(a++,b++);
       10 NaN
 </details>
 
+## Q-6
+var a =10;
+function outer(){
+    var a = 20;
+    var b = 30;
+    function inner(a){
+        var a = 30;
+        console.log(a++ ,b++)
+        }
+    console.log(a, ++b);
+    inner(a);
+}
+outer();
+console.log(a++);
+<details><summary><b>Answer</b></summary>
+      20 31
+      30 31
+      10
+</details>
+
+## Q-7
+![image](https://user-images.githubusercontent.com/122484692/215404935-5a2d882e-3fd6-40ec-afce-ddef580830b7.png)
+
+## Q-8
+![image](https://user-images.githubusercontent.com/122484692/215404996-89215fc3-287e-4504-9fb6-d7e9915d92f7.png)
+
+## Q-9
+![image](https://user-images.githubusercontent.com/122484692/215405153-9fe33208-d41a-40ce-9091-05613f1217ba.png)
+
+## Q-10
+![image](https://user-images.githubusercontent.com/122484692/215405225-bb0d38a9-9b57-4f75-aeb8-8eb7be6a999b.png)
+
+## Q-11
+![image](https://user-images.githubusercontent.com/122484692/215405283-797ee24a-b4d5-4b87-9257-c5c335db6af4.png)
+
+## Q-12
+![image](https://user-images.githubusercontent.com/122484692/215405359-fa6e722a-a42d-4c24-a5b8-53bd19dc9d75.png)
+
+## Q-13
+![image](https://user-images.githubusercontent.com/122484692/215405408-89db7b03-c7e9-405c-93f6-e8fc7f67578a.png)
+
+## Q-14
+![image](https://user-images.githubusercontent.com/122484692/215405455-04cd6b27-3242-41e9-9ebe-576f689e728f.png)
+
+## Q-15
+![image](https://user-images.githubusercontent.com/122484692/215405510-e70a0442-ac31-43b7-84ca-d60ef1344215.png)
+
+## Q-16
+![image](https://user-images.githubusercontent.com/122484692/215405551-917756b9-86f3-4a57-8089-955f12cba9e5.png)
+
+## Q-17
+![image](https://user-images.githubusercontent.com/122484692/215405743-c24547c7-b1bc-42fa-a607-2c4ba94fd0a6.png)
 
 

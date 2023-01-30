@@ -1,4 +1,608 @@
 # JavaScript-CN
+ ************************************************************* Starting with Javascript ********************************************************************
+
+## Q-1
+![image](https://user-images.githubusercontent.com/96730792/211337930-4bf1cd6d-5ae1-4d3d-8c78-a7da3bc41797.png)
+
+## Q-2
+![image](https://user-images.githubusercontent.com/96730792/211338194-dac23333-4093-4768-8f39-059ada287447.png)
+
+## Q-3  ECMAscript officially released -1997
+
+## Q-4 
+![image](https://user-images.githubusercontent.com/96730792/211338518-8bb6aded-feb9-4ade-88b6-3fc6f699897b.png)
+
+## Q-5
+![image](https://user-images.githubusercontent.com/96730792/211338624-7c4d6c43-738b-45cd-a741-ef497277b906.png)
+
+## Q-6
+![image](https://user-images.githubusercontent.com/96730792/211338757-eb98e5e2-dd84-4c0c-814c-37fc2ffa642e.png)
+
+## Q-7 
+var a = 10;
+console.log(a);
+a = " 'Coding Ninjas' ";
+console.log(a);
+<details><summary><b>Answer</b></summary>
+  10,
+Coding Ninjas
+</details>
+
+## Q-8
+var a;
+console.log(a);
+<details><summary><b>Answer</b></summary>
+undefined
+</details>
+
+## Q-9
+var a = "A";
+console.log(65 - a);
+<details><summary><b>Answer</b></summary>
+  NaN
+</details>
+
+## Q-10
+typeof("-1")
+<details><summary><b>Answer</b></summary>
+ string
+</details>
+
+## Q-11
+var a = null
+typeof(a)
+<details><summary><b>Answer</b></summary>
+object
+</details>
+
+## Q-12
+var x = 4;
+var y = x++;
+y += 1;
+console.log(y);
+<details><summary><b>Answer</b></summary>
+5
+</details>
+
+## Q-13
+console.log(20 + 12 * 2 - 10 / 2)
+<details><summary><b>Answer</b></summary>
+39
+</details>
+
+## Q-14
+console.log(1 + '1')
+<details><summary><b>Answer</b></summary>
+11
+</details>
+  
+ ## Q-15
+  var a;
+console.log(a + "b");
+<details><summary><b>Answer</b></summary>
+undefinedb
+</details>
+
+## Q-16
+console.log(1 - '1')
+<details><summary><b>Answer</b></summary>
+0
+</details>
+
+## Q-17
+"1" == 1
+<details><summary><b>Answer</b></summary>
+true
+</details>
+
+## Q-18
+null == undefined
+<details><summary><b>Answer</b></summary>
+true
+</details>
+
+## Q-19
+if( -1 ) {
+    console.log("true")
+}
+else {
+    console.log("false")
+}
+<details><summary><b>Answer</b></summary>
+true
+</details>
+
+## Q-20
+if( "" ) {
+    console.log("true")
+}
+else {
+    console.log("false")
+}
+<details><summary><b>Answer</b></summary>
+false
+</details>
+
+## Q-21
+for(var i=0; i<5; ++i) { 
+      console.log("Hello") ; 
+   }
+<details><summary><b>Answer</b></summary>
+
+</details>
+  
+## Q-22
+ var i , j ;    
+   for(i=0, j = 10; i < 10, j < 100) {
+   console.log("Hello"); 
+   }
+<details><summary><b>Answer</b></summary>
+
+</details>
+  
+  ## Q-23
+var i ;    
+   for(i=0; i<5) { 
+     console.log("Hello");  
+   }
+<details><summary><b>Answer</b></summary>
+
+</details>
+
+## Q-24
+var i , j ;    
+   for(i=0, j=10; i<5; ++i) { 
+      console.log("Hello"); 
+   }
+<details><summary><b>Answer</b></summary>
+
+</details>
+
+## Q-25
+var a = 2;
+var b = 0;
+while(a <= 4){
+    a++;
+    b += a * 2;
+    console.log(b);
+}
+<details><summary><b>Answer</b></summary>
+6 14 24
+</details>
+
+## Q-26
+![image](https://user-images.githubusercontent.com/96730792/211344971-a572fe9a-1d3c-4b70-8f9e-6ff45c761353.png)
+
+## Q-27
+![image](https://user-images.githubusercontent.com/96730792/211345185-c7647eb0-519b-43fe-873c-5f03438d3601.png)
+
+## Q-28
+var a = 10/0;
+console.log(a);
+<details><summary><b>Answer</b></summary>
+infinity
+</details>
+
+## Q-29
+console.log(null == undefined);
+console.log(typeof(null) == typeof(undefined));
+<details><summary><b>Answer</b></summary>
+true false
+</details>
+
+## Q-30
+console.log(65 + "H")
+<details><summary><b>Answer</b></summary>
+65H
+</details>
+
+## Q-31
+null === undefined
+<details><summary><b>Answer</b></summary>
+false
+</details>
+
+## Q-32
+typeof( typeof( typeof( 100 ) ) )
+<details><summary><b>Answer</b></summary>
+string
+</details>
+
+## Q-33
+var a;
+if( typeof(a) ) {
+    console.log("true")
+}
+else {
+    console.log("false")
+}
+<details><summary><b>Answer</b></summary>
+true
+</details>
+
+## Q-34
+![image](https://user-images.githubusercontent.com/96730792/211346634-886ab21f-a3ba-4dc7-959c-896ee09ab30f.png)
+
+## Q-35
+![image](https://user-images.githubusercontent.com/96730792/211346774-decff162-313a-4575-8a2e-562da15aad52.png)
+
+ *************************************************************** Functions and Arrays *****************************************************************************
+## Q-1
+![image](https://user-images.githubusercontent.com/96730792/211347450-060eadf4-aad9-4324-83a0-0009aa9ba51f.png)
+
+## Q-2
+![image](https://user-images.githubusercontent.com/96730792/211347529-b98bb470-a66e-4c5c-8645-aa1ea311cfab.png)
+
+
+## Q-3 More Arguments Passed-
+function test(a, b) {
+    console.log( a + b );
+}
+test( 2 , 3 , 4);
+<details><summary><b>Answer</b></summary>
+5
+</details>
+
+## Q-4 Fewer Arguments-
+function test(a, b, c) {
+    console.log( a + b * c);
+}
+test(2,3);
+<details><summary><b>Answer</b></summary>
+Nan
+</details>
+
+## Q-5
+x = 5;
+console.log(x);
+var x;
+<details><summary><b>Answer</b></summary>
+5
+</details>
+
+## Q-6
+hoisted();
+
+function hoisted() {
+    console.log('Hoisted');
+}
+<details><summary><b>Answer</b></summary>
+Hoisted
+</details>
+
+## Q-7 Variable Hoisting-
+function demo() {
+    console.log(x);
+    var x = 10;
+}
+demo();
+<details><summary><b>Answer</b></summary>
+undefined
+</details>
+
+## Q-8 Multiplication-
+function multiply(a, b) {
+    return a*b;
+};
+console.log(multiply);
+<details><summary><b>Answer</b></summary>
+f multiply(a,b){return a*b; }
+</details>
+
+## Q-9 Global and Local Variable-
+var a = 10;
+function test() {
+    var a = 20;
+}
+test(); 
+console.log(a);
+<details><summary><b>Answer</b></summary>
+10
+</details>
+
+## Q-10 Global Vs Local-
+var a = 10;
+function test() {
+    var a = 20;
+    console.log(a);
+}
+test();
+<details><summary><b>Answer</b></summary>
+20
+</details>
+
+## Q-11 Function Within Function-
+function a() {
+    console.log("Inside a");
+    function b() {
+        console.log("Inside b");
+    }
+}
+a();
+<details><summary><b>Answer</b></summary>
+Inside a
+</details>
+  
+  ## Q-12 Calling Inner Function-
+  function a() {
+    console.log("Inside a");
+    function b() {
+        console.log("Inside b");
+    }
+}
+b();
+<details><summary><b>Answer</b></summary>
+Uncaught ReferenceError:b is not defined 
+</details>
+
+## Q-13 Function Call Inside Function-
+var combinedString = "";
+function a() {
+    combinedString = "Inside a";
+    function b() {
+        combinedString = combinedString + " Inside b";
+    }
+    b();
+}
+a();
+console.log(combinedString);
+<details><summary><b>Answer</b></summary>
+  inside a inside b
+</details>
+
+## Q-14 Function Expression-
+var RectArea = function(width, height) {
+    return width * height;
+}
+console.log(RectArea(5,4));
+<details><summary><b>Answer</b></summary>
+ 20
+</details>
+
+## Q-15 Nested Variable Function-
+function a() {
+    console.log("Inside a");
+
+    function b() {
+        console.log("Inside b");
+    }
+}
+
+a()b();
+<details><summary><b>Answer</b></summary>
+  Uncaught SyntaxError: Unexpected identifier 
+</details>
+
+## Q-16
+![image](https://user-images.githubusercontent.com/96730792/211356332-23718bdf-b056-46a8-aa75-7f9f8e4b0654.png)
+
+## Q-17 Run Subtract-
+var add = function (a, b) {
+    return a+b;
+}
+var subtract = function (a, b) {
+    return a-b;
+}
+var op = function (func) {
+    var x = 2;
+    var y = 3;
+    return func(x, y);
+}
+console.log(op(subtract));
+<details><summary><b>Answer</b></summary>
+-1
+</details>
+
+## Q-18 Pass Function to Function-
+  var add = function(a, b) {
+    return a+b;
+}
+
+var subtract = function(a, b) {
+    return a-b;
+}
+
+var op = function (func) {
+    var x = 2;
+    var y = 3;
+    return func(x, y);
+}
+
+console.log(op(add));
+  <details><summary><b>Answer</b></summary>
+5
+</details>
+
+## Q-19 
+![image](https://user-images.githubusercontent.com/96730792/211356899-b08caacb-ca22-4fc8-bb25-db0b77053315.png)
+
+## Q-20
+![image](https://user-images.githubusercontent.com/96730792/211357033-f8685628-7c88-439b-8e0b-91c8bbd294b9.png)
+
+## Q-21 Push in Array-
+var color= ["Orange", "Blue", "Green"];
+color.push("Red");
+console.log(color[0]+ " " +color[color.length-1]);
+ <details><summary><b>Answer</b></summary>
+Orange Red
+</details>
+
+## Q-22 Shift Array-
+var fruits = ["Red", "Orange", "Blue", "Green"];
+console.log(fruits.shift());
+ <details><summary><b>Answer</b></summary>
+ Red
+</details>
+
+## Q-23
+![image](https://user-images.githubusercontent.com/96730792/211357530-02f79399-b5a4-4dfe-9fe3-7ec75fd631bd.png)
+
+## Q-24 Array Splice-
+var fruits = ['Apple', 'Orange', 'Kiwi', 'Strawberry'];
+
+fruits.splice(4, 1, 'Banana');
+
+console.log(fruits);
+<details><summary><b>Answer</b></summary>
+['Apple', 'Orange', 'Kiwi', 'Strawberry', 'banana'];
+</details>
+
+
+## Q-25 Array Splice -
+var fruits = ['Apple', 'Orange', 'Kiwi', 'Strawberry'];
+fruits.splice(1, 0, 'Banana');
+console.log(fruits);
+<details><summary><b>Answer</b></summary>
+['Apple', 'banana', 'orange', 'kiwi', 'Strawberry'];
+</details>
+
+## Q-26
+![image](https://user-images.githubusercontent.com/96730792/211364397-d75da4ba-4b8d-430b-8b29-e42481141d3e.png)
+
+## Q-27
+var sum = 0; 
+var arr = [1, 2, 3];
+arr.forEach(getSum);
+console.log(sum);
+
+function getSum(ele) {
+   sum += ele;
+}
+<details><summary><b>Answer</b></summary>
+6
+</details>
+
+## Q-28 Global and Local Variable-
+var a = 10;
+function test() {
+    a = 20;
+}
+test();
+console.log(a);
+<details><summary><b>Answer</b></summary>
+20
+</details>
+
+## Q-29
+![image](https://user-images.githubusercontent.com/96730792/211364935-2108b44e-5722-48ee-8a08-437e2b4269d9.png)
+
+## Q-30 Function in Function-
+function sqSum(a, b) {
+    function square(x) {
+        return x*x;
+    }
+    return square(a) + square(b);
+}
+<details><summary><b>Answer</b></summary>
+sum of square of a and b
+</details>
+
+## Q-31 Passing Fewer Arguments-
+function test(a, b) {
+    console.log( a + b );
+}
+test(2);
+<details><summary><b>Answer</b></summary>
+NaN
+</details>
+
+## Q-32 Hoisting in Javascript-
+var a = 1;
+function b() {
+    a = 10;
+    return;
+    function a() { }
+}
+b();
+console.log(a);
+<details><summary><b>Answer</b></summary>
+1
+</details>
+
+## Q-33 Iterate Array-
+array = [ 60, 70, 20, 10, 40, 90 ];
+const test = function(x) {
+    return x > 5;
+}
+if(!array.every(test)) {
+    console.log("statement 1"); 
+}
+else {
+    console.log("statement 2"); 
+}
+<details><summary><b>Answer</b></summary>
+statement 2
+</details>
+
+## Q-34 Hoisted Function-
+hoisted(); 
+var hoisted = function() {
+    console.log('bar');
+};
+<details><summary><b>Answer</b></summary>
+TypeError:Hoisted is not a function
+</details>
+
+## Q-35 For Each Word-
+var words = ['one', 'two', 'three', 'four'];
+words.forEach(function(word) {
+    console.log(word);
+    if (word === 'two') {
+        words.shift();
+    }
+});
+<details><summary><b>Answer</b></summary>
+one two four
+</details>
+
+## Q-36 Splice-
+var color = ['red', 'orange', 'blue', 'violet'];
+var removed = color.splice(2);
+console.log(color);
+console.log(removed);
+<details><summary><b>Answer</b></summary>
+var color = ['red', 'orange', 'blue', 'violet'];
+</details>
+  
+## Q-37 
+function a(){
+    function b() {
+        return 3;
+    }
+    function b() {
+        return 8;
+   }
+} 
+console.log(a());
+<details><summary><b>Answer</b></summary>
+8
+</details>
+ 
+ ## Q-38 Rest Parameter-
+ function fun(...input){
+    var sum = 0;
+    for(var i = 0; i < input.length; i++){
+        sum += input[i];
+    }
+    return sum;
+}
+console.log(fun(1,2,3,4,5)); 
+<details><summary><b>Answer</b></summary>
+15
+</details>
+ 
+## Q-39 Default parameters-
+ function f(a,b = 1) {
+  console.log(a*b)
+}
+var x = // some hidden  value
+f(5,x)
+<details><summary><b>Answer</b></summary>
+undefined
+</details>
+
+
+
  ****************************************************** Understanding DOM  ***********************************************************
 
 ## Q-1

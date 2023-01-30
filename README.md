@@ -1050,3 +1050,48 @@ console.log(a++);
 ## Q-42
 ![image](https://user-images.githubusercontent.com/122484692/215420650-27ef8d9d-296e-4888-a139-bafb92446bb9.png)
 
+
+************************************************************************************************************************************************************************************************************************************************************************************************************************************************************************** asynchronous Javascript *******************************
+
+## Q-1
+![image](https://user-images.githubusercontent.com/122484692/215421174-cb6b348c-5022-423b-8ae4-e319319ec212.png)
+
+## Q-2
+![image](https://user-images.githubusercontent.com/122484692/215421247-514bd549-ef88-4f6d-837b-c7ee257c4518.png)
+
+## Q-3
+![image](https://user-images.githubusercontent.com/122484692/215421299-7e4a978a-262b-4223-a57b-07b20e9db3aa.png)
+
+## Q-4
+![image](https://user-images.githubusercontent.com/122484692/215421379-8b0e8568-0bef-4d54-b9fa-c0e1e85c98a8.png)
+
+## Q-5
+![image](https://user-images.githubusercontent.com/122484692/215421478-ff2e6675-546b-4185-a994-26d156a2409d.png)
+
+## Q-6
+![image](https://user-images.githubusercontent.com/122484692/215421578-a5c58e39-7fec-4059-8567-aa262c76d58f.png)
+
+## Q-7
+![image](https://user-images.githubusercontent.com/122484692/215421663-a2801b8e-53a3-4448-bc20-da5f207b433e.png)
+
+## Q-8
+![image](https://user-images.githubusercontent.com/122484692/215421735-c13500bf-96f0-4b0a-a757-ee0e959c1b56.png)
+
+## Q-9
+![image](https://user-images.githubusercontent.com/122484692/215421799-15d24f8b-e563-401a-9da1-ecd208694b45.png)
+
+## Q-10
+![image](https://user-images.githubusercontent.com/122484692/215421889-19347716-5fd5-49f9-bc95-3c586f0f7614.png)
+
+## Q-11
+![image](https://user-images.githubusercontent.com/122484692/215422026-ef8230c5-0456-4ea1-8515-2e2aa6236958.png)
+
+## Q-12
+![image](https://user-images.githubusercontent.com/122484692/215422096-bfc8b2f4-16c2-4a5d-a197-58dca1a2f7a6.png)
+
+## Q-13
+![image](https://user-images.githubusercontent.com/122484692/215422167-ac3f1485-ea34-498a-b4e5-3326b8a89c7d.png)
+
+## Q-14
+![image](https://user-images.githubusercontent.com/122484692/215422278-43248d52-33e9-488a-9848-34c84c54fca2.png)
+

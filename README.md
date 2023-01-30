@@ -1,4 +1,4 @@
-# JavaScript-CN
+# JavaScript- coding ninja
  ***************************************** Starting with Javascript **********************************************************
 
 ## Q-1

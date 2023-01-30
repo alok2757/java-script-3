@@ -672,6 +672,23 @@ undefined
 ## Q-23
 ![image](https://user-images.githubusercontent.com/122484692/215393692-5fb6a8a0-b74f-4873-8d61-7869c85b635c.png)
 
+## Q-24
+![image](https://user-images.githubusercontent.com/122484692/215393945-b575ec31-2ad2-4604-943c-eb5b1ca0031c.png)
+
+## Q-25
+![image](https://user-images.githubusercontent.com/122484692/215393998-831e5a2e-e15e-49b4-9be8-e26b4afa6120.png)
+
+## Q-26
+![image](https://user-images.githubusercontent.com/122484692/215394096-2b7feba1-54b5-4138-8ae5-9b4ed6e65783.png)
+
+## Q-27
+![image](https://user-images.githubusercontent.com/122484692/215394151-af3ef85f-87e3-4a5f-8cf3-7d52f4af6331.png)
+
+## Q-28
+![image](https://user-images.githubusercontent.com/122484692/215394207-5c1bb521-406e-44cf-a2bc-48248360acc5.png)
+
+## Q-29
+![image](https://user-images.githubusercontent.com/122484692/215394261-233b69bf-e114-4e5f-9d85-6d0ad012ab41.png)
 
 
 

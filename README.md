@@ -919,5 +919,7 @@ console.log(a++);
 ## Q-29
 ![image](https://user-images.githubusercontent.com/122484692/215413196-6d945e22-875f-4c3f-ae96-caf2165fb2d3.png)
 
-## Q-3
+## Q-30
+![image](https://user-images.githubusercontent.com/122484692/215416136-e4ddfa7d-f369-4864-9c93-5759898ea66a.png)
+
 
